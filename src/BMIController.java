@@ -16,7 +16,7 @@ import javafx.scene.control.TextField;
 
 /**
  *
- * @author AbhinavTyagi
+ * @author Aman Nazarkulov 
  */
 public class BMIController implements Initializable {
 
