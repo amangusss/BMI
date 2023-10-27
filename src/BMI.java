@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author AbhinavTyagi
+ * @author Aman Nazarkulov
  */
 public class BMI extends Application {
 
