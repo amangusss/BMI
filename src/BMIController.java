@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.example.assignment_6;
 
 import java.net.URL;
@@ -14,11 +9,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.RadioButton;
 import javafx.scene.control.TextField;
 
-/**
- *
- * @author Aman Nazarkulov 
- */
-public class BMIController implements Initializable {
+public class BMIController {
 
     @FXML
     private Label label;
@@ -58,11 +49,6 @@ public class BMIController implements Initializable {
 
         }
 
-    }
-
-    @Override
-    public void initialize(URL url, ResourceBundle rb) {
-        // TODO
     }
 
 }
